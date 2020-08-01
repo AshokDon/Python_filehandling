@@ -1,6 +1,6 @@
 import csv
 import os
-import pandas
+import pandas as pd
 with open('tech1.csv','r') as f1:
     data=list(csv.reader(f1))
 result=0
@@ -55,4 +55,9 @@ def ACET():
     return acet_c_count,acet_p_count,acet_j_count
 Count_Student()
 
-df=pandas.DataFrame({})
+
+df=pd.DataFrame({'c_program':[result[0],result1[0],result2[0]],
+                 'python':[result[1],result1[1],result2[1]],
+                 'java':[result[2],result1[2],result2[2]]},index=['AEC','ACET','ACOE'])
+print(df)
+df.to_csv('final.csv')
