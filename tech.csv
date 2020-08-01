@@ -1,0 +1,405 @@
+S.No,roll num,name,Last Name,College,Branch,Year,Course,Location,Date of Register,Paid Status,Amount,,Payment Eligibility
+1,,,Veera durga jyothi,Aditya College of Engineering and Technology,CSE,2023,C programing,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+2,,,Veera venkata satyanarayanana reddy,Aditya College of Engineering and Technology,IT,2023,C programing,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+3,,,Chaitanya,Aditya Engineering College,CSE,2023,C programing,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+4,,,MADHU,Aditya College of Engineering and Technology,ECE,2023,C programing,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+5,,,Maden,Aditya College of Engineering,CSE,2023,C programing,,27-07-20,UnPaid,1000 + 18% GST,,Eligible
+6,,,Mummina,Aditya College of Engineering and Technology,CSE,2023,C programing,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+7,,,Rukuman,Aditya Engineering College,ECE,2023,C programing,,27-07-20,UnPaid,1000 + 18% GST,,Eligible
+8,,,Ruthala,Aditya College of Engineering,CSE,2023,C programing,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+9,,,Yuvasri,Aditya College of Engineering,ECE,2023,C programing,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+10,,,SAI SUJITHA,Aditya College of Engineering and Technology,IT,2023,C programing,,27-07-20,UnPaid,1000 + 18% GST,,Eligible
+11,,,Boda,Aditya College of Engineering and Technology,IT,2023,C programing,,27-07-20,UnPaid,1000 + 18% GST,,Eligible
+12,,,Buddaraju,Aditya College of Engineering and Technology,CSE,2023,C programing,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+13,,,Sugandhini,Aditya College of Engineering and Technology,ECE,2023,C programing,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+14,,,DURGA BHAVANI,Aditya College of Engineering and Technology,IT,2023,C programing,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+15,,,Srivalli,Aditya College of Engineering,ECE,2023,C programing,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+16,,,VENKAT,Aditya College of Engineering,ECE,2023,C programing,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+17,,,Mani shanker,Aditya Engineering College,CSE,2023,C programing,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+18,,,Varsha,Aditya College of Engineering,ECE,2023,C programing,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+19,,,sunkara,Aditya College of Engineering,ECE,2023,C programing,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+20,,,RAMYASRI,Aditya College of Engineering,ECE,2023,C programing,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+21,,,Kondavardhi,Aditya College of Engineering,ECE,2023,C programing,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+22,,,Yarramsetti,Aditya College of Engineering,ECE,2023,C programing,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+23,,,Shareef,Aditya College of Engineering,ECE,2023,C programing,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+24,,,Charanya laxmi sai tulasi,Aditya College of Engineering,CSE,2023,C programing,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+25,,,Jyothsna devi,Aditya College of Engineering,CSE,2023,C programing,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+26,,,Balaji,Aditya College of Engineering,ECE,2023,C programing,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+27,,,Priya,Aditya Engineering College,CSE,2023,C programing,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+28,,,Kumari,Aditya College of Engineering and Technology,IT,2023,C programing,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+29,,,Gayathri,Aditya College of Engineering,CSE,2023,C programing,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+30,,,Kumari,Aditya College of Engineering and Technology,IT,2023,C programing,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+31,,,Meghana,Aditya College of Engineering,ECE,2023,C programing,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+32,,,Cheduluri.Kanaka Maha Lakshmi,Aditya College of Engineering,CSE,2023,C programing,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+33,,,Harshith,Aditya College of Engineering and Technology,IT,2023,C programing,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+34,,,Rajana,Aditya College of Engineering,CSE,2023,C programing,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+35,,,Nallamilli,Aditya College of Engineering and Technology,CSE,2023,C programing,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+36,,,Hari Chaitanya,Aditya College of Engineering and Technology,IT,2023,C programing,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+37,,,Arigela,Aditya College of Engineering,ECE,2023,C programing,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+38,,,Nandipalli,Aditya College of Engineering,CSE,2023,C programing,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+39,,,Udugula,Aditya College of Engineering,ECE,2023,C programing,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+40,,,S N D P S SAI SRUTHI,Aditya College of Engineering,CSE,2023,C programing,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+41,,,GORIJALA,Aditya College of Engineering,ECE,2023,C programing,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+42,,,mygapula,Aditya College of Engineering,ECE,2023,C programing,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+43,,,Orsu,Aditya College of Engineering,CSE,2023,C programing,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+44,,,Garaga,Aditya College of Engineering,ECE,2023,C programing,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+45,,,Chaudhary,Aditya College of Engineering and Technology,IT,2023,C programing,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+46,,,Meghana Raja Rajeswari,Aditya College of Engineering,ECE,2023,C programing,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+47,,,Ponnam,Aditya College of Engineering,CSE,2023,C programing,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+48,,,Janga,Aditya College of Engineering,ECE,2023,C programing,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+49,,,Allu.sri sai varsha,Aditya College of Engineering and Technology,CSE,2023,C programing,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+50,,,Kapaganti,Aditya College of Engineering,ECE,2023,C programing,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+51,,,Davuluri,Aditya Engineering College,ECE,2023,C programing,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+52,,,Reddy,Aditya College of Engineering,ECE,2023,C programing,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+53,,,Ijjapu,Aditya College of Engineering,CSE,2023,C programing,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+54,,,Chol,Aditya Engineering College,AGRI,2023,C programing,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+55,,,Konada,Aditya College of Engineering and Technology,IT,2023,C programing,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+56,,,Ganga anusha,Aditya College of Engineering,ECE,2023,C programing,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+57,,,Santhi sowjanya,Aditya College of Engineering,ECE,2023,C programing,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+58,,,Sateesh kumar,Aditya College of Engineering,ECE,2023,C programing,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+59,,,Durga prasad,Aditya College of Engineering,ECE,2023,C programing,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+60,,,Venkata vijaya reddy,Aditya College of Engineering and Technology,IT,2023,C programing,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+61,,,Madhumitha,Aditya Engineering College,CSE,2023,C programing,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+62,,,Naga venkata narasimha murthy,Aditya College of Engineering,ECE,2023,C programing,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+63,,,Sirisha,Aditya College of Engineering,CSE,2023,C programing,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+64,,,Akula,Aditya College of Engineering,CSE,2023,C programing,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+65,,,Siddu,Aditya College of Engineering,ECE,2023,C programing,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+66,,,Srinivasareddy,Aditya College of Engineering,ECE,2023,C programing,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+67,,,Yatish madhav,Aditya College of Engineering,ECE,2023,C programing,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+68,,,Veera Sivaji,Aditya College of Engineering,ECE,2023,C programing,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+69,,,Medisetti Sri Surya Vamsi,Aditya College of Engineering and Technology,IT,2023,C programing,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+70,,,Abhinash reddy,Aditya College of Engineering and Technology,IT,2023,C programing,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+71,,,CHIKKALA,Aditya College of Engineering and Technology,CSE,2023,C programing,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+72,,,Venkatesulu,Aditya College of Engineering,CSE,2023,C programing,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+73,,,Varma,Aditya College of Engineering,ECE,2023,C programing,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+74,,,Vasamsetti,Aditya College of Engineering and Technology,ECE,2023,C programing,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+75,,,Chintapalli,Aditya Engineering College,MECH,2023,C programing,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+76,,,Thanuja,Aditya College of Engineering,ECE,2023,C programing,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+77,,,Manikanta,Aditya College of Engineering,CSE,2023,C programing,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+78,,,Mummidi,Aditya College of Engineering,CSE,2023,C programing,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+79,,,haribabu,Aditya College of Engineering,CSE,2023,C programing,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+80,,,Bala Anil Kumar,Aditya College of Engineering,ECE,2023,C programing,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+81,,,RAYUDU HEMA SATYA MOUNIKA DEVI,Aditya College of Engineering,CSE,2023,C programing,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+82,,,Koppireddy,Aditya College of Engineering and Technology,ECE,2023,C programing,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+83,,,Hemanth veera rama durga prasad,Aditya College of Engineering,ECE,2023,C programing,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+84,,,Devi Abhishek,Aditya College of Engineering,ECE,2023,C programing,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+85,,,Kumar,Aditya College of Engineering and Technology,CSE,2023,C programing,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+86,,,Matta,Aditya College of Engineering and Technology,IT,2023,C programing,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+87,,,Penmetsa,Aditya College of Engineering,ECE,2023,C programing,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+88,,,Raghunadh,Aditya College of Engineering and Technology,IT,2023,C programing,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+89,,,PUNNAMARAJU,Aditya College of Engineering and Technology,IT,2023,C programing,,01-08-20,UnPaid,1000 + 18% GST,,Eligible
+90,,,Rekhapalli,Aditya College of Engineering,ECE,2023,C programing,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+91,,,Sri Rama Lakshmi,Aditya College of Engineering,CSE,2023,C programing,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+92,,,Balle,Aditya College of Engineering,CSE,2023,C programing,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+93,,,Phani Akshaya,Aditya Engineering College,ECE,2023,C programing,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+94,,,Oruganti.Satya Durga,Aditya College of Engineering,CSE,2023,C programing,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+95,,,Duddukuri,Aditya College of Engineering,CSE,2023,C programing,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+96,,,Jyothi swaroop,Aditya College of Engineering,CSE,2023,C programing,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+97,,,Ayanampudi,Aditya College of Engineering,ECE,2023,C programing,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+98,,,Ranganadham,Aditya College of Engineering,CSE,2023,C programing,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+99,,,Puppala,Aditya College of Engineering,CSE,2023,C programing,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+100,,,J S,Aditya College of Engineering,PET,2023,C programing,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+101,,,Koduri,Aditya College of Engineering,ECE,2023,C programing,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+102,,,Krishna U,Aditya College of Engineering,PET,2023,C programing,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+103,,,Sureah,Aditya College of Engineering,PET,2023,C programing,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+104,,,Thirumala,Aditya College of Engineering,CSE,2023,C programing,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+105,,,AL MAMUN,Aditya College of Engineering,MECH,2023,C programing,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+106,,,Kachhap,Aditya College of Engineering and Technology,EEE,2023,C programing,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+107,,,Swathi,Aditya College of Engineering,CSE,2023,C programing,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+108,,,THUTARAPU CHANUKYA RATNA SIDDESWARI,Aditya College of Engineering,CSE,2023,C programing,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+109,,,Mogali,Aditya College of Engineering,ECE,2023,C programing,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+110,,,NULAKANI,Aditya College of Engineering,CSE,2023,C programing,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+111,,,Bhaskara Narayanamma,Aditya College of Engineering and Technology,IT,2023,C programing,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+112,,,Mukesh varma,Aditya College of Engineering,CSE,2023,C programing,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+113,,,HarikaReddy,Aditya College of Engineering and Technology,IT,2023,C programing,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+114,,,PRAGALLAPATI,Aditya Engineering College,IT,2023,C programing,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+115,,,SAPIREDDY,Aditya College of Engineering and Technology,IT,2023,C programing,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+116,,,Peram,Aditya College of Engineering and Technology,IT,2023,C programing,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+117,,,Veera Mounika Chowdary,Aditya College of Engineering and Technology,IT,2023,C programing,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+118,,,Jaya Lakshmi,Aditya College of Engineering and Technology,CSE,2023,C programing,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+119,,,VEMPATI,Aditya College of Engineering and Technology,IT,2023,C programing,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+120,,,Devu,Aditya College of Engineering and Technology,ECE,2023,C programing,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+121,,,Gupta,Aditya College of Engineering and Technology,CSE,2023,C programing,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+122,,,Parimi,Aditya College of Engineering,ECE,2023,C programing,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+123,,,Gaddam,Aditya College of Engineering and Technology,IT,2023,C programing,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+124,,,Karumudi,Aditya College of Engineering and Technology,IT,2023,C programing,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+125,,,Surgam,Aditya Engineering College,ECE,2023,Java,,27-07-20,UnPaid,1000 + 18% GST,,Eligible
+126,,,Ashlesha seetha maha Lakshmi,Aditya Engineering College,ECE,2023,Java,,27-07-20,UnPaid,1000 + 18% GST,,Eligible
+127,,,Bhanu Sree Maanvi,Aditya Engineering College,CSE,2023,Java,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+128,,,Chitikineddi,Aditya Engineering College,ECE,2023,Java,,27-07-20,UnPaid,1000 + 18% GST,,Eligible
+129,,,Varman,Aditya Engineering College,ECE,2023,Java,,27-07-20,UnPaid,1000 + 18% GST,,Eligible
+130,,,Rukuman,Aditya Engineering College,ECE,2023,Java,,27-07-20,UnPaid,1000 + 18% GST,,Eligible
+131,,,DUVVA,Aditya College of Engineering and Technology,IT,2023,Java,,27-07-20,UnPaid,1000 + 18% GST,,Eligible
+132,,,Sugandhini,Aditya College of Engineering and Technology,ECE,2023,Java,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+133,,,Sharma,Aditya College of Engineering and Technology,ECE,2023,Java,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+134,,,MARISETTI,Aditya Engineering College,CSE,2023,Java,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+135,,,Sankar,Aditya Engineering College,CSE,2023,Java,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+136,,,Sowjanya,Aditya College of Engineering and Technology,ECE,2023,Java,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+137,,,Sai,Aditya College of Engineering and Technology,ECE,2023,Java,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+138,,,Sriramreddy,Aditya Engineering College,ECE,2023,Java,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+139,,,Degala,Aditya College of Engineering and Technology,ECE,2023,Java,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+140,,,Duggirala,Aditya College of Engineering and Technology,ECE,2023,Java,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+141,,,Allu. Sri sai varsha,Aditya Engineering College,CSE,2023,Java,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+142,,,Rajesh,Aditya Engineering College,ECE,2023,Java,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+143,,,Bhavani,Aditya Engineering College,PET,2023,Java,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+144,,,Pallavi,Aditya Engineering College,CSE,2023,Java,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+145,,,Kambala,Aditya College of Engineering,ECE,2023,Java,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+146,,,Manga,Aditya College of Engineering and Technology,ECE,2023,Java,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+147,,,Siva Kumar,Aditya College of Engineering,CSE,2023,Java,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+148,,,Sahithi,Aditya College of Engineering and Technology,ECE,2023,Java,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+149,,,SARVASUDDI,Aditya Engineering College,ECE,2023,Java,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+150,,,Kumar,Aditya College of Engineering and Technology,CSE,2023,Java,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+151,,,ramakrishna,Aditya Engineering College,IT,2023,Java,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+152,,,Motukuri,Aditya Engineering College,CSE,2023,Java,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+153,,,Ganga Sunny,Aditya College of Engineering,EEE,2023,Java,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+154,,,Bhavani,Aditya Engineering College,PET,2023,Java,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+155,,,Neelam,Aditya College of Engineering,CSE,2023,Java,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+156,,,Neelam,Aditya College of Engineering,CSE,2023,Java,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+157,,,Surya teja,Aditya College of Engineering,CSE,2023,Java,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+158,,,Jyothi venkat,Aditya Engineering College,CIVIL,2023,Java,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+159,,,Yadav,Aditya Engineering College,CSE,2023,Java,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+160,,,somisetti,Aditya Engineering College,ECE,2023,Java,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+161,,,Pothula,Aditya Engineering College,ECE,2023,Java,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+162,,,Nagaveni,Aditya College of Engineering and Technology,CSE,2023,Java,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+163,,,Gella,Aditya Engineering College,ECE,2023,Python,,27-07-20,UnPaid,1000 + 18% GST,,Eligible
+164,,,LAVANYA,Aditya College of Engineering and Technology,ECE,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+165,,,Jureddi,Aditya College of Engineering and Technology,CSE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+166,,,Tupakula,Aditya College of Engineering,CSE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+167,,,Surgam,Aditya Engineering College,ECE,2023,Python,,27-07-20,UnPaid,1000 + 18% GST,,Eligible
+168,,,Yamini,Aditya College of Engineering and Technology,ECE,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+169,,,Ashlesha seetha maha Lakshmi,Aditya Engineering College,ECE,2023,Python,,27-07-20,UnPaid,1000 + 18% GST,,Eligible
+170,,,Gattimi,Aditya College of Engineering and Technology,CSE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+171,,,Varman,Aditya Engineering College,ECE,2023,Python,,27-07-20,UnPaid,1000 + 18% GST,,Eligible
+172,,,Khalkho,Aditya Engineering College,ECE,2023,Python,,27-07-20,UnPaid,1000 + 18% GST,,Eligible
+173,,,Mummina,Aditya College of Engineering and Technology,CSE,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+174,,,Sarkar,Aditya Engineering College,ECE,2023,Python,,27-07-20,UnPaid,1000 + 18% GST,,Eligible
+175,,,BHOGAVALLI,Aditya College of Engineering and Technology,CSE,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+176,,,Mondi,Aditya Engineering College,CSE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+177,,,Tejaswi,Aditya College of Engineering and Technology,IT,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+178,,,Tanveerunnisa,Aditya College of Engineering,ECE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+179,,,Yellapu,Aditya College of Engineering and Technology,ECE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+180,,,Rukuman,Aditya Engineering College,ECE,2023,Python,,27-07-20,UnPaid,1000 + 18% GST,,Eligible
+181,,,Jyoshnavi,Aditya College of Engineering,CSE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+182,,,Kumpati,Aditya College of Engineering and Technology,CSE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+183,,,Prasad,Aditya College of Engineering,CSE,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+184,,,Koppisetti,Aditya College of Engineering,CSE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+185,,,Geddamuri,Aditya College of Engineering,CSE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+186,,,Tanikella,Aditya College of Engineering,CSE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+187,,,Vetcha,Aditya College of Engineering and Technology,IT,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+188,,,Nalamothu,Aditya College of Engineering and Technology,ECE,2023,Python,,27-07-20,UnPaid,1000 + 18% GST,,Eligible
+189,,,Seelam,Aditya Engineering College,MECH,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+190,,,Medapati,Aditya Engineering College,CSE,2023,Python,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+191,,,Sugandhini,Aditya College of Engineering and Technology,ECE,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+192,,,Yasaswi,Aditya Engineering College,CSE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+193,,,REDLA,Aditya Engineering College,MECH,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+194,,,Ganta,Aditya College of Engineering and Technology,ECE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+195,,,Kante,Aditya College of Engineering and Technology,ECE,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+196,,,SINGAMSETTI,Aditya Engineering College,CSE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+197,,,Matukumalli,Aditya College of Engineering,ECE,2023,Python,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+198,,,SIVA SURYABHAVANI,Aditya College of Engineering and Technology,ECE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+199,,,Naidu,Aditya College of Engineering and Technology,IT,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+200,,,Chintha,Aditya College of Engineering,CSE,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+201,,,Chintha,Aditya College of Engineering,CSE,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+202,,,Guthula,Aditya College of Engineering,CSE,2023,Python,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+203,,,Anusha,Aditya College of Engineering and Technology,IT,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+204,,,Md,Aditya College of Engineering,ECE,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+205,,,Maden,Aditya College of Engineering,CSE,2023,Python,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+206,,,Ijjapu,Aditya College of Engineering,CSE,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+207,,,Kalla,Aditya College of Engineering,ECE,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+208,,,Venkat anil,Aditya College of Engineering and Technology,IT,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+209,,,Karri,Aditya Engineering College,CSE,2023,Python,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+210,,,Marneedi,Aditya College of Engineering,ECE,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+211,,,Kowsalya,Aditya College of Engineering,CSE,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+212,,,Dev,Aditya Engineering College,CSE,2023,Python,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+213,,,Maddali,Aditya Engineering College,IT,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+214,,,Sai,Aditya College of Engineering,ECE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+215,,,Phanindra,Aditya College of Engineering,CSE,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+216,,,ahmed,Aditya Engineering College,CSE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+217,,,Nallapati,Aditya College of Engineering and Technology,ECE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+218,,,Ashok Reddy,Aditya College of Engineering,ECE,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+219,,,Lakshmi harika,Aditya College of Engineering,CSE,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+220,,,Sagi,Aditya Engineering College,IT,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+221,,,Sriramreddy,Aditya Engineering College,ECE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+222,,,Priyanka,Aditya Engineering College,IT,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+223,,,Vissamsetti,Aditya College of Engineering,CSE,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+224,,,DUGGINA,Aditya College of Engineering and Technology,IT,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+225,,,Hemanth,Aditya Engineering College,IT,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+226,,,Vempati,Aditya College of Engineering,ECE,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+227,,,Puppala,Aditya College of Engineering,ECE,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+228,,,Degala,Aditya College of Engineering and Technology,ECE,2023,Python,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+229,,,VARDHAN,Aditya Engineering College,IT,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+230,,,Allu.sri sai varsha,Aditya College of Engineering and Technology,CSE,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+231,,,Rajesh,Aditya Engineering College,ECE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+232,,,Velnati,Aditya College of Engineering and Technology,ECE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+233,,,Surya swamy,Aditya College of Engineering,CSE,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+234,,,Ajuot,Aditya College of Engineering,EEE,2023,Python,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+235,,,Swetha,Aditya College of Engineering and Technology,CSE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+236,,,Kadimisetti,Aditya College of Engineering,ECE,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+237,,,Uma suresh,Aditya Engineering College,CSE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+238,,,Alekhya,Aditya College of Engineering,CSE,2023,Python,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+239,,,DENG DHONG AGOOR,Aditya College of Engineering,MECH,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+240,,,Varsha chandu sri,Aditya College of Engineering and Technology,ECE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+241,,,Sai Teja,Aditya Engineering College,ECE,2023,Python,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+242,,,Singh,Aditya Engineering College,CSE,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+243,,,Sireesha,Aditya College of Engineering,ECE,2023,Python,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+244,,,Sanipini,Aditya College of Engineering and Technology,ECE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+245,,,Ajang,Aditya College of Engineering,PET,2023,Python,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+246,,,Rakesh Sai Kumar Singh,Aditya College of Engineering,CSE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+247,,,Prathipati,Aditya College of Engineering,ECE,2023,Python,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+248,,,Meka,Aditya Engineering College,IT,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+249,,,AMULOJU,Aditya College of Engineering and Technology,IT,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+250,,,Krishna,Aditya College of Engineering,CSE,2023,Python,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+251,,,kumar,Aditya Engineering College,MECH,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+252,,,Patrayani,Aditya College of Engineering and Technology,ECE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+253,,,Nimmakayala,Aditya College of Engineering,ECE,2023,Python,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+254,,,Tummuri,Aditya College of Engineering and Technology,ECE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+255,,,Balaji,Aditya College of Engineering,CSE,2023,Python,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+256,,,Raparthi,Aditya College of Engineering and Technology,ECE,2023,Python,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+257,,,Reddy,Aditya College of Engineering and Technology,ECE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+258,,,Chinta,Aditya Engineering College,ECE,2023,Python,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+259,,,Umamaheswari,Aditya College of Engineering and Technology,ECE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+260,,,Kanda,Aditya College of Engineering,ECE,2023,Python,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+261,,,UshaRani,Aditya College of Engineering and Technology,CSE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+262,,,Vismitha,Aditya College of Engineering and Technology,ECE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+263,,,Omnath,Aditya College of Engineering and Technology,IT,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+264,,,NAMADI,Aditya Engineering College,CSE,2023,Python,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+265,,,maddila,Aditya College of Engineering,CSE,2023,Python,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+266,,,..,Aditya Engineering College,CSE,2023,Python,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+267,,,S t P n,Aditya College of Engineering and Technology,IT,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+268,,,Chaitanya,Aditya College of Engineering and Technology,IT,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+269,,,Dinesh kumar,Aditya Engineering College,CSE,2023,Python,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+270,,,Ganapathi,Aditya College of Engineering,CSE,2023,Python,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+271,,,Kiran,Aditya Engineering College,ECE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+272,,,CHIKKALA,Aditya College of Engineering and Technology,IT,2023,Python,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+273,,,Pandi,Aditya College of Engineering,ECE,2023,Python,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+274,,,Kondeti,Aditya College of Engineering and Technology,IT,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+275,,,Kale,Aditya College of Engineering and Technology,ECE,2023,Python,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+276,,,Sapkota,Aditya Engineering College,CSE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+277,,,Palaparthi,Aditya College of Engineering,CSE,2023,Python,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+278,,,Santhosh Kumar,Aditya College of Engineering,CSE,2023,Python,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+279,,,Pothamsetti,Aditya College of Engineering,ECE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+280,,,Kanuri,Aditya College of Engineering and Technology,ECE,2023,Python,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+281,,,Manjuvani,Aditya College of Engineering and Technology,CSE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+282,,,N,Aditya College of Engineering,ECE,2023,Python,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+283,,,Priya,Aditya Engineering College,AGRI,2023,Python,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+284,,,Mummidi,Aditya College of Engineering,CSE,2023,Python,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+285,,,Tarun Venkata Ramesh,Aditya Engineering College,CSE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+286,,,Sai Sree,Aditya Engineering College,CSE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+287,,,Yuvasri,Aditya College of Engineering,ECE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+288,,,Mallikarjuna,Aditya Engineering College,CSE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+289,,,sanikommu,Aditya College of Engineering and Technology,ECE,2023,Python,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+290,,,Nirmala,Aditya College of Engineering,CSE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+291,,,Abburi,Aditya College of Engineering,CSE,2023,Python,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+292,,,Jyothika,Aditya College of Engineering and Technology,ECE,2023,Python,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+293,,,Ashok,Aditya College of Engineering and Technology,CSE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+294,,,Sathi,Aditya Engineering College,CSE,2023,Python,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+295,,,Dhulipudi,Aditya College of Engineering and Technology,ECE,2023,Python,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+296,,,Kumar,Aditya College of Engineering and Technology,CSE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+297,,,Pynda,Aditya College of Engineering and Technology,ECE,2023,Python,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+298,,,karapa.Gayathri,Aditya College of Engineering and Technology,CSE,2023,Python,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+299,,,VENKATA SATISH,Aditya Engineering College,ECE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+300,,,Das,Aditya College of Engineering and Technology,CSE,2023,Python,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+301,,,Sanghavi,Aditya Engineering College,CSE,2023,Python,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+302,,,Akella,Aditya College of Engineering and Technology,ECE,2023,Python,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+303,,,Kumar,Aditya Engineering College,PET,2023,Python,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+304,,,Velpula,Aditya Engineering College,IT,2023,Python,,01-08-20,UnPaid,1000 + 18% GST,,Eligible
+305,,,Mahalakshmi rao,Aditya College of Engineering and Technology,ECE,2023,Python,,01-08-20,UnPaid,1000 + 18% GST,,Eligible
+306,,,Vardhani,Aditya College of Engineering and Technology,CSE,2023,Python,,01-08-20,UnPaid,1000 + 18% GST,,Eligible
+307,,,Naga Saisree,Aditya College of Engineering and Technology,ECE,2023,Python,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+308,,,Reddy,Aditya Engineering College,IT,2023,Python,,01-08-20,UnPaid,1000 + 18% GST,,Eligible
+309,,,Satya Sai Trived,Aditya College of Engineering and Technology,ECE,2023,Python,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+310,,,NAGA SAI DURGA,Aditya College of Engineering and Technology,ECE,2023,Python,,01-08-20,UnPaid,1000 + 18% GST,,Eligible
+311,,,Raul,Aditya College of Engineering and Technology,CSE,2023,Python,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+312,,,Teja shiva Krishna,Aditya College of Engineering and Technology,ECE,2023,Python,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+313,,,Kumar,Aditya College of Engineering,ECE,2023,Python,,01-08-20,UnPaid,1000 + 18% GST,,Eligible
+314,,,Rongala,Aditya College of Engineering and Technology,ECE,2023,Python,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+315,,,Saila,Aditya College of Engineering and Technology,ECE,2023,Python,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+316,,,Yandra,Aditya College of Engineering,CSE,2023,Python,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+317,,,Sahithi,Aditya College of Engineering and Technology,ECE,2023,Python,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+318,,,Saila,Aditya College of Engineering and Technology,ECE,2023,Python,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+319,,,Kumar,Aditya College of Engineering,CSE,2023,Python,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+320,,,A,Aditya College of Engineering,CSE,2023,Python,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+321,,,Kumar,Aditya College of Engineering,CSE,2023,Python,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+322,,,Siva Durga Prasad,Aditya College of Engineering,CSE,2023,Python,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+323,,,DAMARASINGH,Aditya Engineering College,ECE,2023,Python,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+324,,,Lahari,Aditya College of Engineering,EEE,2023,Python,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+325,,,Garimella,Aditya College of Engineering and Technology,ECE,2023,Python,,28-07-20,UnPaid,1000 + 18% GST,,Eligible
+326,,,Mamidala,Aditya College of Engineering,CSE,2023,Python,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+327,,,Pantham,Aditya Engineering College,MECH,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+328,,,Bhavanidevi,Aditya College of Engineering and Technology,ECE,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+329,,,Sappa,Aditya College of Engineering and Technology,ECE,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+330,,,Bandi,Aditya College of Engineering and Technology,ECE,2023,Python,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+331,,,Lokareddy,Aditya College of Engineering,CSE,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+332,,,Ravindra,Aditya College of Engineering,CSE,2023,Python,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+333,,,Vyshnav,Aditya College of Engineering,ECE,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+334,,,Yanna,Aditya College of Engineering,CSE,2023,Python,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+335,,,Gandham,Aditya College of Engineering,ECE,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+336,,,Kakara,Aditya College of Engineering and Technology,ECE,2023,Python,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+337,,,Koruvada,Aditya College of Engineering,CSE,2023,Python,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+338,,,AYANAMPUDI,Aditya College of Engineering,ECE,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+339,,,Joyshee,Aditya College of Engineering,CSE,2023,Python,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+340,,,Sai Sandeep,Aditya College of Engineering,ECE,2023,Python,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+341,,,Gunnam,Aditya College of Engineering and Technology,ECE,2023,Python,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+342,,,karri,Aditya College of Engineering and Technology,ECE,2023,Python,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+343,,,Mukku,Aditya College of Engineering,ECE,2023,Python,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+344,,,PEPAKAYALA,Aditya College of Engineering,ECE,2023,Python,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+345,,,Punyamanthula,Aditya College of Engineering,CSE,2023,Python,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+346,,,Ramya patani,Aditya College of Engineering and Technology,ECE,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+347,,,Avinash Rednam,Aditya College of Engineering and Technology,ECE,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+348,,,Mutti,Aditya College of Engineering and Technology,ECE,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+349,,,Mupondi,Aditya College of Engineering,CIVIL,2023,Python,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+350,,,Kumar,Aditya College of Engineering and Technology,ECE,2023,Python,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+351,,,Kiran,Aditya College of Engineering and Technology,ECE,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+352,,,Kaparapu,Aditya College of Engineering,ECE,2023,Python,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+353,,,Chand,Aditya College of Engineering and Technology,ECE,2023,Python,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+354,,,Tummala,Aditya College of Engineering,ECE,2023,Python,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+355,,,Nhavoto,Aditya Engineering College,PET,2023,Python,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+356,,,Bade,Aditya College of Engineering,CSE,2023,Python,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+357,,,Kandukuri,Aditya College of Engineering,CSE,2023,Python,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+358,,,eluri,Aditya Engineering College,CSE,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+359,,,Ajjesh Basha,Aditya College of Engineering,CSE,2023,Python,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+360,,,Jyothi swaroop,Aditya College of Engineering,CSE,2023,Python,,30-07-20,UnPaid,1000 + 18% GST,,Eligible
+361,,,Goli,Aditya College of Engineering,CSE,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+362,,,Cabral,Aditya Engineering College,CSE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+363,,,Sanjay kumar,Aditya College of Engineering,ECE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+364,,,BHAVANA,Aditya College of Engineering and Technology,IT,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+365,,,SATTI,Aditya Engineering College,CSE,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+366,,,Yadav,Aditya College of Engineering and Technology,IT,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+367,,,Kumar,Aditya College of Engineering,ECE,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+368,,,Nallamilli,Aditya College of Engineering and Technology,CSE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+369,,,Krishna,Aditya Engineering College,PET,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+370,,,Badiganti,Aditya College of Engineering and Technology,ECE,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+371,,,Nagaveni,Aditya College of Engineering and Technology,CSE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+372,,,Sravanthi,Aditya College of Engineering and Technology,ECE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+373,,,Gopisetti,Aditya College of Engineering and Technology,CSE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+374,,,Kavitha sri,Aditya College of Engineering,CSE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+375,,,kosireddy,Aditya Engineering College,CSE,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+376,,,Arole,Aditya College of Engineering,CSE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+377,,,Charishma,Aditya Engineering College,CSE,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+378,,,Bondu,Aditya College of Engineering and Technology,ECE,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+379,,,Bodaballa,Aditya College of Engineering and Technology,CSE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+380,,,Akhil,Aditya College of Engineering,CSE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+381,,,Katakam,Aditya Engineering College,ECE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+382,,,Jhansi,Aditya Engineering College,CSE,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+383,,,Ramesh,Aditya College of Engineering,CSE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+384,,,VENKATA SRINIVASULU,Aditya Engineering College,IT,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+385,,,Chittabbai,Aditya College of Engineering,ECE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+386,,,Nallamilli,Aditya College of Engineering,CSE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+387,,,kumar,Aditya College of Engineering and Technology,IT,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+388,,,Ravipati,Aditya College of Engineering and Technology,ECE,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+389,,,Pavan kumar,Aditya College of Engineering and Technology,ECE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+390,,,Durga raj,Aditya College of Engineering and Technology,ECE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+391,,,Srinivas,Aditya College of Engineering and Technology,ECE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+392,,,Sravani,Aditya College of Engineering,ECE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+393,,,Cheekala,Aditya College of Engineering and Technology,ECE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+394,,,Yadav,Aditya Engineering College,CSE,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+395,,,PALANATI,Aditya Engineering College,IT,2023,Python,,29-07-20,UnPaid,1000 + 18% GST,,Eligible
+396,,,Barla,Aditya Engineering College,MECH,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+397,,,P VARDHAN,Aditya Engineering College,MECH,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+398,,,Suma,Aditya Engineering College,CSE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+399,,,Kocherla,Aditya College of Engineering and Technology,CSE,2023,Python,,31-07-20,UnPaid,1000 + 18% GST,,Eligible
+,,,,,,,,,,,,,
+,,,,c program,python,java,,,,,,,
+,,,AEC,10,61,21,,,,,,,
+,,,ACET,39,91,11,,,,,,,
+,,,ACOE,75,85,6,,,,,,,
